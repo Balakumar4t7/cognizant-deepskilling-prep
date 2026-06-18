@@ -11,4 +11,4 @@ Message through SMS !
 
 ## Screenshot
 
-<img src="images/Output_Factory.jpeg" width="800"/>
+<img src="Output_Factory.jpeg" width="800"/>
