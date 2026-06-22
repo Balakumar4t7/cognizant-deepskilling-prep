@@ -1,0 +1,3 @@
+20:11:03:631 [main] WARN  org.example.LoggerExample Started Warn Log from Logger Example class !
+20:11:03:631 [main] INFO  org.example.LoggerExample Started Info Log from Logger Example class !
+20:11:03:631 [main] INFO  org.example.LoggerExample the user User A  is logging here
