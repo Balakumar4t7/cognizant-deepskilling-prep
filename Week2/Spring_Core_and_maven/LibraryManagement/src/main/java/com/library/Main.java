@@ -9,7 +9,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class Main {
     public static void main(String[] args) {
         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
-        BookService bookService= context.getBean("bookService" , BookService.class);
+        BookService bookService= context.getBean(BookService.class);
        bookService.callingBookRepo();
 
     }

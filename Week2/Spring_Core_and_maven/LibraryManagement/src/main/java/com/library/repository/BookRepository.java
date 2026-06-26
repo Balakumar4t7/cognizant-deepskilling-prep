@@ -1,10 +1,14 @@
 package com.library.repository;
 
+import org.springframework.stereotype.Repository;
+
 import java.awt.print.Book;
 
+@Repository
 public class BookRepository  {
+
     BookRepository(){
-        System.out.println("Bookrepository bean is created so The Constructor is Running");
+        System.out.println("Bean for Repository is Created By @Repositoy Annotion ");
     }
 
     public void callingRepo() {
